@@ -1,0 +1,24 @@
+body
+{
+    font: 100 1.5em Helvetica, Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+#p1
+{
+    color: #f83333;
+    background-color: #444;
+}
+
+#p2
+{
+    color: rgb(0,255,127);
+    background-color: rgba(50%,50%,0%,0.5);
+}
+
+#p3
+{
+    color: hsl(240,100%,75%);
+    background-color: hsla(0,0%,100%,0.2);
+}
