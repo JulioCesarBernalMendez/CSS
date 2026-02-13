@@ -1,0 +1,81 @@
+*
+{
+    margin: 0;
+}
+
+body
+{
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 20px;
+}
+
+code
+{
+    color: #c00;
+}
+
+h2, #htmldog
+{
+    margin-top: 20px;
+}
+
+#len1
+{
+    font-size: 12px;
+}
+
+#len2
+{
+    font-size: 12pt;
+}
+
+#len3
+{
+    font-size: 12q;
+}
+
+#len4
+{
+    font-size: 1.2ex;
+}
+
+#len5
+{
+    font-size: 1.2em;
+}
+
+#len6
+{
+    font-size: 1.2vmax; /* not supported by Internet Explorer */
+}
+
+#pc1
+{
+    font-size: 50%;
+}
+
+#pc2
+{
+    font-size: 100%;
+}
+
+#pc3
+{
+    font-size: 150%;
+}
+
+#kw1
+{
+    font-size: x-small;
+}
+
+#kw2
+{
+    font-size: medium;
+}
+
+#kw3
+{
+    font-size: x-large;
+}
