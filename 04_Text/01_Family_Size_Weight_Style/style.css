@@ -1,0 +1,25 @@
+body
+{
+    font-family: arial, helvetica, sans-serif;
+}
+
+h1
+{
+    font-size: 50px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+#p1
+{
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#p2
+{
+    font-size: 1.5em;
+    font-weight: lighter;
+    font-style: normal;
+}
