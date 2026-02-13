@@ -1,0 +1,14 @@
+#p1
+{
+    font-size: 30px;
+    text-indent: 10%;
+    word-spacing: 15px;
+}
+
+#p2
+{
+    font-size: 27px;
+    letter-spacing: 8px;
+    line-height: 3;
+    text-align: right;
+}
