@@ -1,0 +1,19 @@
+h1
+{
+    text-transform: capitalize;
+}
+
+#p1
+{
+    text-transform: uppercase;
+}
+
+#p2
+{
+    text-transform: lowercase;
+}
+
+a
+{
+    text-transform: none;
+}
