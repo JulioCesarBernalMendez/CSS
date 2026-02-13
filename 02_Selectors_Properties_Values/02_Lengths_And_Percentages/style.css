@@ -1,0 +1,29 @@
+h1
+{
+    font-size: 3em;
+    color: red;
+}
+
+h2
+{
+    font-size: 150%;
+    color: green;
+}
+
+p
+{
+    font-size: 25px;
+    color: blue;
+}
+
+a
+{
+    font-size: 15pt;
+    color: orange;
+}
+
+body
+{
+    /* font-size: 15mm; */
+    color: violet;
+}
