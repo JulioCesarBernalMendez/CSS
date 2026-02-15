@@ -1,0 +1,39 @@
+body
+{
+    font-size: 25px;
+}
+
+p
+{
+    margin: 50px 0;
+}
+
+code
+{
+    color: #c00;
+}
+
+#p1
+{
+    font-weight: bold;
+}
+
+#p2
+{
+    font-style: italic;
+}
+
+#p3
+{
+    font-variant: small-caps;
+}
+
+#p4
+{
+    text-transform: uppercase;
+}
+
+#p5
+{
+    line-height: 2;
+}
