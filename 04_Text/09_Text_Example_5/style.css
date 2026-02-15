@@ -1,0 +1,16 @@
+body
+{
+    font: 150% arial, helvetica, sans-serif;
+}
+
+#p1
+{
+    text-indent: 2em;
+    word-spacing: 1em;
+}
+
+#p2
+{
+    text-align: justify;
+    letter-spacing: 0.1em;
+}
