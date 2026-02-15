@@ -1,0 +1,32 @@
+h1
+{
+    font-size: 3em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
+
+#p1
+{
+    background-color: yellow;
+    font-size: 32px;
+    margin-left: 200px;
+    padding-bottom: 50px;
+}
+
+h2
+{
+    color: white;
+    background-color: blue;
+    font-size: 2em;
+    margin-right: 1000px;
+    padding-top: 100px;
+}
+
+#p2
+{
+    font-size: 150%;
+    background-color: red;
+    margin-top: 25px;
+    padding-left: 50px;
+}
