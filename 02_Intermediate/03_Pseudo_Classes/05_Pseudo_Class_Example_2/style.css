@@ -1,0 +1,28 @@
+body
+{
+    font: 12px arial, helvetica, sans-serif;
+}
+
+/* Note: using 'div a' (targetting all a elements inside div elements) instead of
+   simply 'a' (all elements) so that this doesn't target the link back to HTML Dog
+   at the bottom of the page */
+div a
+{
+    display: block;
+    width: 200px;
+    height: 63px;
+    background-image: url("toucancombo2.jpg");
+
+    text-indent: -999em;
+    text-decoration: none;
+}
+
+a:hover
+{
+    background-position: center;
+}
+
+a:active
+{
+    background-position: bottom;
+}
