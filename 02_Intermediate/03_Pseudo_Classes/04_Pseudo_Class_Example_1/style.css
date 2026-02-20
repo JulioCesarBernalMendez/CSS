@@ -1,0 +1,18 @@
+body
+{
+    font: 12px arial, helvetica, sans-serif;
+}
+
+#toucan
+{
+    display: block;
+    width: 200px;
+    height: 63px;
+    background-image: url("toucancombo.jpg");
+    text-indent: -999em;
+}
+
+a:hover
+{
+    background-position: bottom;
+}
