@@ -1,0 +1,46 @@
+#top h1, #top h2, #top p
+{
+    color: green;
+}
+
+label
+{
+    float: left;
+    clear: left;
+    width: 7em;
+}
+
+a:link
+{
+    color: blue;
+}
+
+a:visited
+{
+    color: pink;
+}
+
+a:active
+{
+    color: red;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: blue;
+    background-color: yellow;
+}
+
+input:focus, textarea:focus
+{
+    background: #bbf;
+}
+
+button:active
+{
+    font-weight: bold;
+    color: white;
+
+    background-color: blue;
+}
