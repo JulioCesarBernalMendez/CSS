@@ -1,0 +1,14 @@
+#top h1, #top h2, #top p
+{
+    color: green;
+}
+
+a:link
+{
+    color: blue;
+}
+
+a:visited
+{
+    color: pink;
+}
