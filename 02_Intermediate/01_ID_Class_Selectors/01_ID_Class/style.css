@@ -1,0 +1,16 @@
+#top
+{
+    background-color: #ccc;
+    padding: 20px;
+}
+
+.intro
+{
+    color: red;
+    font-weight: bold;
+}
+
+p.jam
+{
+    background-color: green;
+}
