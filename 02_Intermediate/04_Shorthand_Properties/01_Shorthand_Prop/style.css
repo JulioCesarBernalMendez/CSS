@@ -1,0 +1,42 @@
+p
+{
+    /* background-color: green; */
+
+    /*
+    margin-top: 1px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    */
+    /* margin: 1px 5px 10px 20px; */
+
+    /*
+    padding-top: 1px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    */
+    /* padding: 1px 5px 10px 20px; */
+
+    /*
+    border-width: 4px;
+    border-color: red;
+    border-style: solid;
+    */
+    /* border: 4px red solid; */
+
+    /*
+    font-style: italic;
+    font-weight: bold;
+    line-height: 12px/2;
+    font-family: courier;
+    */
+    /* font: italic bold 12px/2 courier; */
+
+    font: 14px/1.5 "Times New Roman", times, serif;
+    padding: 30px 10px;
+    border: 1px black solid;
+    border-width: 1px 5px 5px 1px;
+    border-color: red green blue yellow;
+    margin: 10px 50px;
+}
