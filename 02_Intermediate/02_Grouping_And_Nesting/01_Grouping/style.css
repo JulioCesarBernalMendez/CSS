@@ -1,0 +1,21 @@
+/*
+h1
+{
+    color: red;
+}
+
+.thisOtherClass
+{
+    color: red;
+}
+
+.yetAnotherClass
+{
+    color: red;
+}
+*/
+
+h1, .thisOtherClass, .yetAnotherClass
+{
+    color: red;
+}
