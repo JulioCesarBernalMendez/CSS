@@ -1,0 +1,18 @@
+/* <nav> behaves as a <table>*/
+nav
+{
+    display: table;
+}
+
+/* <ul> behaves as <tr> */
+ul
+{
+    display: table-row;
+}
+
+/* <li> behaves as <td> */
+li
+{
+    display: table-cell;
+    padding-right: 20px;
+}
