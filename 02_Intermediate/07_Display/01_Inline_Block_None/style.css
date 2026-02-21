@@ -1,0 +1,27 @@
+li
+{
+    display: inline;
+    
+    background-color: red;
+}
+
+.li2
+{
+    display: block;
+    
+    padding: 20px 10px;
+    background-color: green;
+}
+
+.li3
+{
+    display: inline-block;
+    
+    padding: 20px 10px;
+    background-color: yellow;
+}
+
+.li4
+{
+    display: none;
+}
