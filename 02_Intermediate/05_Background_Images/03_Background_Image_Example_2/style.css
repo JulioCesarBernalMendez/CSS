@@ -1,0 +1,80 @@
+body
+{
+    font: 14px courier;
+    background: #fff;
+    color: #000;
+    margin: 0;
+    padding: 10px;
+}
+
+p
+{
+    background: #ccc url("images/bg.gif") no-repeat;
+    height: 200px;
+    text-align: center;
+    margin: 20px;
+}
+
+code
+{
+    background: white;
+    padding: 0 15px 2px;
+}
+
+#p0
+{
+    background: none;
+    height: auto;
+}
+
+#p1
+{
+    background-position: center;
+}
+
+#p2
+{
+    background-position: right;
+}
+
+#p3
+{
+    background-position: bottom left;
+}
+
+#p4
+{
+    background-position: 20px;
+}
+
+#p5
+{
+    background-position: 50%;
+}
+
+#p6
+{
+    background-position: 75% 25px;
+}
+
+#p7
+{
+    background-position: top 99px right 9px;
+}
+
+#borderCollie
+{
+    background: none;
+}
+#borderCollie a
+{
+    display: block;
+    height: 200px;
+    background: #ccc url("images/badge1.gif") center no-repeat;
+    transition: background-position 0.5s;
+    text-indent: -999em;
+}
+#borderCollie a:hover
+{
+    background-position: 50% 10px;
+}
