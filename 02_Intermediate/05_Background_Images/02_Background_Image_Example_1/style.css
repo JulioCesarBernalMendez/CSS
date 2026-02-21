@@ -1,0 +1,26 @@
+body
+{
+    color: #fc6;
+    background-color: #c72;
+    background-image: url("images/bg.gif");
+    font-size: 20px;
+    margin: 0;
+}
+
+article
+{
+    width: 480px;
+    padding: 20px;
+    margin: auto;
+    background-color: rgba(0,0,0,0.2);
+}
+
+h1, #htmldog
+{
+    text-align: center
+}
+
+a
+{
+    color: white;
+}
