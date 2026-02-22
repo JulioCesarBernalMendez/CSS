@@ -1,0 +1,49 @@
+body
+{
+    font: 80% arial, helvetica, sans-serif;
+}
+
+h1
+{
+    font-size: 1.5em;
+}
+
+h2
+{
+    font-size: 1em;
+}
+
+code
+{
+    font-family: courier;
+}
+
+#example1, #example2
+{
+    background: #ccc;
+    border: 2px solid black;
+}
+
+span
+{
+    background: white;
+    display: block;
+    border: 0.5em solid red;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+span.altern8
+{
+    background: #5b5;
+}
+
+#example2 span
+{
+    display: inline;
+}
+
+#htmldog
+{
+    margin: 2em 0;
+}
