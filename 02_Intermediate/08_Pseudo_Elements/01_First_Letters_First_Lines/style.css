@@ -1,0 +1,16 @@
+#example
+{
+    font-size: 12px;
+}
+
+#example:first-letter
+{
+    font-size: 50px;
+    float: left;
+}
+
+#example:first-line
+{
+    font-size: 16px;
+    font-weight: bold;
+}
