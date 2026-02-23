@@ -1,0 +1,62 @@
+#navigation1
+{
+    position: static;
+
+    width: 200px;
+    background-color: red;
+}
+
+#navigation2
+{
+    position: relative;
+    top: 0px;
+    left: 100px;
+
+    width: 200px;
+    background-color: red;
+}
+
+#navigation3
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 200px;
+    background-color: red;
+}
+
+#navigation4
+{
+    position: fixed;
+    left: 500px;
+
+    width: 200px;
+    background-color: red;
+}
+
+#navigation5
+{
+    position: absolute;
+    top: 726;
+    left: 0px;
+    width: 200px;
+
+    background-color: yellow;
+}
+
+#navigation6
+{
+    position: absolute;
+    top: absolute;
+    right: 0px;
+    width: 200px;
+
+    background-color: yellow;
+}
+
+#content
+{
+    margin: 0 200px; /* setting top and bottom margin to 0 and right and left margin to 200px */
+    background-color: yellow;
+}
