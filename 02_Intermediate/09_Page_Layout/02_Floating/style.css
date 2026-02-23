@@ -1,0 +1,31 @@
+#navigation1
+{
+    float: left;
+    width: 200px;
+
+    background-color: green;
+    height: 500px;
+}
+
+#navigation2
+{
+    float: right;
+    width: 200px;
+
+    background-color: yellow;
+    height: 700px;
+}
+
+#content
+{
+
+    margin: 0 200px; /* setting top and bottom margin to 0 and right and left margin to 200px */
+
+    background-color: gray;
+}
+
+#footer
+{
+    clear: both;
+    background-color: red;
+}
